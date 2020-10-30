@@ -1,0 +1,10 @@
+.footer {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 22px;
+    margin-top: 18px;
+    font-size: 15px;
+    color: lightslategray;
+    background-color: black;
+}
