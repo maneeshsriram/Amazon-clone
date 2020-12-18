@@ -1,3 +1,11 @@
-This repository contains the Amazon clone built with ReactJS and Firebase for login system and hosting. This is mainly a frontend project with few backend functionalities like signup, login and logout.After downloading/cloning hit the following commands inyour terminal:
-  npm install
-  npm start
+Amazon Clone with user authentication and hosting using firebase.
+
+
+Insert firebase configurations: <br />
+Create firebase project and allow hosting- https://firebase.google.com/
+
+
+In the terminal run the following commands: <br />
+npm install - Installs all the node_modules and dependencies. <br />
+npm start - Runs the server on localhost:3000
+   
