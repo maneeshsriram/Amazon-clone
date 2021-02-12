@@ -3,6 +3,7 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
+    //Add your firebase config here
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
