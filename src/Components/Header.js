@@ -42,10 +42,14 @@ function Header() {
                     <span className="header__optionLine1">Returns</span>
                     <span className="header__optionLine2">& Orders</span>
                 </div>
-                <div className="header__option">
-                    <span className="header__optionLine1">Your</span>
-                    <span className="header__optionLine2">Prime</span>
-                </div>
+
+                <a href="https://www.primevideo.com/" target="_blank">
+                    <div className="header__option">
+                        <span className="header__optionLine1">Your</span>
+                        <span className="header__optionLine2">Prime</span>
+                    </div>
+                </a>
+
                 <Link to="/checkout">
                     <div className="header__optionBasket">
                         <ShoppingCartIcon />
