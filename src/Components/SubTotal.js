@@ -31,7 +31,7 @@ function SubTotal() {
                     </div>
                 )}
             />
-            <button onClick={e => history.push('/payment')}>Proceed to Checkout</button>
+            <button>Proceed to Checkout</button> {/* onClick={e => history.push('/payment') } */}
         </div>
     )
 }
